@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Wall
+  - Tower
+  - Object
+  - Minion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2694190027
+    locked: 0
+  - name: Minion
+    uniqueID: 1564930919
+    locked: 0
+  - name: Towers
+    uniqueID: 3300139651
+    locked: 0
+  - name: Bullet
+    uniqueID: 1431067333
+    locked: 0
+  - name: Players
+    uniqueID: 3879987539
+    locked: 0
